@@ -10,5 +10,17 @@ Al inicio nos plantearon el trabajo de idear una app sobre una problema social c
 
 En este paso es donde se planteo la idea del buzon animado junto a las cartas anonimas y su apoyo en la ambientacion mas amena de la APP
 
-3er-PASO:User flows
+3er-PASO:User flows (figma)
 
+Creamos 4 Nodos en lo cuales pusimos las ideas iniciales junto a los flaqueos de estas y formas de solvertarlas como el inicio de secion 
+
+4to-PASO:User personas (figma)
+
+Usamos esto como una base consisa para encontrar a los usuarios mas viables o personas que sacarian mas lucro y provecho a la APP
+
+5to-PASO:Journey maps (Canva)
+En este pusimos nuestras autoevaluaciones de acuerdo a lo que esperamos hacer con la APP como posible impacto,acceptacion,etc
+
+6to-PASO:App diseño final (figma)
+
+En este punto pusimos todo lo echo en la antesala anterior para ejecutarlo desde el inicio de secion junto con la creacion de cuenta un fodo y uso de PIXEL ART para amenisar el ambiente junto a tambien ser mas interactivo para el usuario y llamativo tambien se implemnto el bose de como se veria las cartas y aunque no dejo implementar se hicieron animaciones en PIXEL STUDIOS 
